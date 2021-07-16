@@ -1,0 +1,33 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+.container {
+    text-align: center;
+    margin-top: 34px;
+}
+
+h1 {
+    margin-bottom: 26px;
+}
+
+.calculator {
+    display: inline-block;
+}
+
+table {
+    margin: auto;
+}
+
+input {
+    font-size: 30px;
+    border: 8px solid black;
+}
+
+button {
+    font-size: 45px;
+    height: 54px;
+    width: 93px;
+    background-color: azure;
+}
